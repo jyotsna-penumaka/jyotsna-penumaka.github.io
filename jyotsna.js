@@ -33,7 +33,7 @@ var sections = [
 		},
 		{	sentence: " curious to know you",
 		},
-		{	sentence: " trying to build up his portfolio",
+		{	sentence: " trying to build up her portfolio",
 		}
 	];
 var i = 0;
